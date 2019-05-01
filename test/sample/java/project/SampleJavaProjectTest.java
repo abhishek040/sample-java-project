@@ -33,7 +33,7 @@ public class SampleJavaProjectTest {
     }
     
        /**
-     * Tests the generated setter and getter methods.
+     * Tests to print my name
      */
     @Test
     public void printMyName() {
