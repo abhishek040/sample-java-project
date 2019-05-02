@@ -37,7 +37,7 @@ public class SampleJavaProjectTest {
      */
     @Test
     public void printMyName() {
-        System.out.println("I am Abhishek");
+        System.out.println("I am Abhishek and I am learing git");
     }
 
     /**
