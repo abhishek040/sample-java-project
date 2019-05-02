@@ -34,6 +34,7 @@ public class SampleJavaProjectTest {
     
        /**
      * Tests to print my name
+     * And what I am learing
      */
     @Test
     public void printMyName() {
